@@ -20,7 +20,7 @@ The projects demonstrate data exploration, visualization, and extraction techniq
 
 ---
 
-## 🛠 Tools & Technologies Used
+##  Tools & Technologies Used
 ### R Project
 - R Programming Language
 - Base R visualization functions
